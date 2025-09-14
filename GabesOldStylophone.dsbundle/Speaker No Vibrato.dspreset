@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler minVersion="1.0">
+  <ui bgImage="Images/background.jpg" coverArt="Images/cover-art.jpg" width="812" height="375">
+    <tab name="main">
+    </tab>
+  </ui>
+  <groups>
+    <group>
+      <sample rootNote="57" path="Samples/A3_Spk.wav" />
+    </group>
+  </groups>
+</DecentSampler>
