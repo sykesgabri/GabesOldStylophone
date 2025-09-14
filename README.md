@@ -10,6 +10,6 @@ Click the green "Code" button, then "Download ZIP" in the dropdown that appears.
 
 NOTE: These are the default sample library directories for DecentSampler, if you set a custom one when you installed it, put the dsbundle in there, not in one of these.
 
-Windows: `%appdata%\Decidedly\DecentSampler\Sample Libraries\`
-MacOS: `~/Music/Audio Music Apps/Decidedly/DecentSampler/Sample Libraries/`
-Linux: `~/.config/DecentSampler/Sample Libraries/`
+- Windows: `%appdata%\Decidedly\DecentSampler\Sample Libraries\`
+- MacOS: `~/Music/Audio Music Apps/Decidedly/DecentSampler/Sample Libraries/`
+- Linux: `~/.config/DecentSampler/Sample Libraries/`
