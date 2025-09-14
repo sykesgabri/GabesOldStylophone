@@ -3,3 +3,13 @@
 This is a hastily thrown together DecentSampler instrument sampled from my old ass Stylophone. There's samples recorded through direct input, as well as through the built in speaker, with and without the vibrato turned on.
 
 The samples and images were all created by me and I have licensed them under CC0 1.0, releasing them into the public domain. THIS ONLY APPLIES TO THE SAMPLES AND IMAGES CONTAINED IN THIS REPO, IT DOES NOT APPLY TO DECENTSAMPLER AS A WHOLE.
+
+## Installation Instructions:
+
+Click the green "Code" button, then "Download ZIP" in the dropdown that appears. Extract the downloaded zip file, and move "GabesOldStylophone.dsbundle" to one of the following directories depending on what OS you're using.
+
+NOTE: These are the default sample library directories for DecentSampler, if you set a custom one when you installed it, put the dsbundle in there, not in one of these.
+
+Windows: `%appdata%\Decidedly\DecentSampler\Sample Libraries\`
+MacOS: `~/Music/Audio Music Apps/Decidedly/DecentSampler/Sample Libraries/`
+Linux: `~/.config/DecentSampler/Sample Libraries/`
