@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DecentSampler minVersion="1.0">
+  <effects>
+    <effect type="gain" /> 
+    <effect type="chorus" mix="0" />
+    <effect type="reverb" />
+  </effects>
   <ui bgImage="Images/background.jpg" coverArt="Images/cover-art.jpg" width="812" height="375">
     <tab name="main">
+      <labeled-knob x="50" y="50" label="Gain" type="float" minValue="-24" maxValue="24" value="0">
+        <binding type="effect" level="instrument" position="0" parameter="LEVEL" />
+      </labeled-knob>
+      <labeled-knob x="590" y="50" label="Chorus" type="float" minValue="0" maxValue="1" value="0">
+        <binding type="effect" level="instrument" position="1" parameter="FX_MIX" />
+      </labeled-knob>
+      <labeled-knob x="690" y="50" label="Reverb" type="float" minValue="0" maxValue="1" value="0">
+        <binding type="effect" level="instrument" position="2" parameter="FX_REVERB_WET_LEVEL" />
+      </labeled-knob>
     </tab>
+    <keyboard>
+      <color loNote="52" hiNote="80" color="FFFFAC66" />
+    </keyboard>
   </ui>
   <groups>
     <group>

@@ -2,6 +2,8 @@
 
 This is a hastily thrown together DecentSampler instrument sampled from my old ass Stylophone. There's samples recorded through direct input, as well as through the built in speaker, with and without the vibrato turned on.
 
+The gain, chorus, and reverb effects are DecentSampler's own inbuilt effects. The orange keys denote the actual playable range of my Stylophone, but you can play beyond that range in this instrument if you want.
+
 The samples and images were all created by me and I have licensed them under CC0 1.0, releasing them into the public domain. THIS ONLY APPLIES TO THE SAMPLES AND IMAGES CONTAINED IN THIS REPO, IT DOES NOT APPLY TO DECENTSAMPLER AS A WHOLE.
 
 ## Installation Instructions:
